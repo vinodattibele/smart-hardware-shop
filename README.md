@@ -1,5 +1,4 @@
-# smart-hardware-shop
-Smart hardware shop cart has Two folders 
+Two folders 
 - smart-hardaware-shop-ui 
     contains for frontend code and test cases(Jest, Enzyme)
 - smart-hardaware-shop-api
