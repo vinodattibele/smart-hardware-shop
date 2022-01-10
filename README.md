@@ -11,6 +11,8 @@ To run appllication,
 # smart-hardware-shop-ui
 -Open folder "smart-hardware-shop-ui" in visual code, right click on 'smart-hardaware-shop-ui' folder and select 'open integrated terminal'
 
+- run npm install for node modules
+
 - to run ui use cmd "npm run start"
     
 - to run test case use cmd "npm run test"
