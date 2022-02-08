@@ -1,6 +1,6 @@
 Two folders 
 - smart-hardaware-shop-ui 
-    contains for frontend code and test cases(Jest, Enzyme)
+    contains for frontend code and test cases(Reatc JS, Jest, Enzyme)
 - smart-hardaware-shop-api
     contains backend api code and test cases(Nunit testing)
 
